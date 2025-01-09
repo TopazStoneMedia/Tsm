@@ -6,13 +6,13 @@
 
 #2 Login
 ##3 need usrnme, passwrd
-## ➡️ main menu logged
+##➡️ main menu logged
 
-####menu logged
+##menu logged
 ##➡️ usrname page, add, game
 
-##### usrnme page 
-# high score, plyrs (up 2 6)
+##usrnme page 
+#high score, plyrs (up 2 6)
 
 #2 Accnt
 ##3 need email, usrnme, passwrd
